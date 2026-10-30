@@ -1,18 +1,28 @@
 ---
 description:
 created: 2026-10-20 星期二 12:54
-modified: 2026-10-26 星期一 21:25
+modified: 2026-10-31 星期六 00:25
 published: false
 tags: []
 sticker: lucide//bird
 ---
 
-## 世界最大化，**但**生活最小化
-**Maximize the world, yet minimize living.**
-以阿德勒的**课题分离**和**共同体感受**为导向，依托**服务设计思维**，将生活解构为与自我、世界、他人相处的三大人生课题，构建低成本、少依赖、稳定运行的个人生存与生活模型。
-LessLive 的 Obsidian 仓库不是传统知识库，是将服务设计思维应用在个人生存与生活领域而设计的人生操作系统，是构建并驱动个人生活的工具和平台。
+<div align="center">
+<h1>LessLive</h1>
+<p><strong>Maximize the world, yet minimize living</strong><br>
+世界最大化，但生活最小化</p>
 
----
+
+<h3>最小化生活</h3>
+<p>把人生拆解为<strong>与自己、与世界、与他人相处</strong>的三大课题<br>
+基于服务设计思维和阿德勒心理学，对个人生存与生活展开研究与实践<br>
+在这个纷繁复杂的世界里<br>
+清除消耗自己的不必要，构建滋养自己的生活圈</p>
+
+<br>
+
+</div>
+
 ## 核心逻辑
 **Distill my minimal living runtime from the maximal world.**
 从纷繁复杂的世界里，蒸馏出我的最小化生活。
